@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @famkab
-- 👀 I’m interested in education technology, basketball and reading!
+- 👀 I’m interested in ed tech, basketball and reading!
 - 🌱 I’m currently learning about data science!
 
 <!--- # - 💞️ I’m looking to collaborate on a super cool algorithm project! 😉
