@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @famkab
-- 👀 I’m interested in ed tech, basketball and reading!
-- 🌱 I’m currently working in ed tech!
-
 - Hi, I’m @famkab 👋 
 - 👀 I’m deeply interested in ed tech, especially in exploring Natural Language Processing (NLP) and Large Language Models (LLMs) to re-imagine learning experiences.
 - 🌱 I’m currently working on personalised learning in the ed tech sphere. My goal is to advance the use of NLP in education, blending my tech expertise with a deep understanding of learning needs.
